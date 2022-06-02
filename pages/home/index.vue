@@ -4,6 +4,8 @@
         <div :class="['box']">box</div> -->
 				<!-- <button open-type="share">分享</button> -->
 				<view @click="xxx" class="box">点这里</view>
+				<view @click="xxx" class="box">点2这里</view>
+				<view @click="xxx" class="box">点这3里</view>
     </view>
 </template>
 
