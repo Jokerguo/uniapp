@@ -1,0 +1,12 @@
+
+page {
+  height: 100%;
+  font-size: 11pt;
+  color: #555;
+  background: #efeff4;
+  overflow-x: hidden;
+}
+
+page,block,view,scroll-view,swiper,movable-view,icon,text,progress,button,checkbox,form,input,label,picker,picker-view,radio,slider,switch,textarea,navigator,audio,image,video,map,canvas,contact-button,cover-image,cover-view {
+  box-sizing: border-box;
+}
