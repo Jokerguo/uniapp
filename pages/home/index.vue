@@ -6,6 +6,8 @@
 				<view @click="xxx" class="box">点这里</view>
 				<view @click="xxx" class="box">点2这里</view>
 				<view @click="xxx" class="box">点这3里</view>
+				<view @click="xxx" class="box">点这233里</view>
+				<view @click="xxx" class="box">点这233里</view>
     </view>
 </template>
 
